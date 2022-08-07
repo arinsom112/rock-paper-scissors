@@ -1,5 +1,7 @@
 import random
 
+print("Hey there hooman!!!")
+
 user_wins = 0
 comp_wins = 0
 tie_counter = 0
